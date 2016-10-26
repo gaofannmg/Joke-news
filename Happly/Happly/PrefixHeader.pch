@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  Happly
+//
+//  Created by yemalive on 16/10/25.
+//  Copyright © 2016年 yemalive. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#define RGB(r,g,b) [UIColor colorWithRed:r/255.0 green:g/255.0 blue:b/255.0 alpha:1]
+
+#import "UIImage+Color.h"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */

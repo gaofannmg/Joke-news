@@ -1,0 +1,10 @@
+platform :ios, '7.0'
+pod "AFNetworking", "~> 2.0"
+
+pod 'SDWebImage', '~>3.7'
+
+pod 'Masonry'
+
+pod 'JSONModel', '~> 1.7.0'
+
+pod 'UIImage+ColorFromImage', '~> 0.0.2'
